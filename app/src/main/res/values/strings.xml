@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CalculadoraNavegador</string>
+    <string name="Clear">CLEAR</string>
+    <string name="M">M</string>
+    <string name="MPLUS">M+</string>
+    <string name="DIVIDE">/</string>
+    <string name="SEVEN">7</string>
+    <string name="EIGHT">8</string>
+    <string name="NINE">9</string>
+    <string name="MULTIPLY">*</string>
+    <string name="FOUR">4</string>
+    <string name="FIVE">5</string>
+    <string name="SIX">6</string>
+    <string name="MINUS">-</string>
+    <string name="ONE">1</string>
+    <string name="TWO">2</string>
+    <string name="THREE">3</string>
+    <string name="PLUS">+</string>
+    <string name="DECIMAL">.</string>
+    <string name="ZERO">0</string>
+    <string name="EQUAL">=</string>
+    <string name="DESC">Icon for deleting a number</string>
+    <string name="CLEAR">CLEAR</string>
+    <string name="MLESS">M-</string>
+    <string name="INPUT">Enter url here...</string>
+    <string name="GOOGLE">Redirects to google.com</string>
+    <string name="SEARCH">Search for the desired web page</string>
+    <string name="RELOAD">Button to reload the current page</string>
+</resources>
